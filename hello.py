@@ -1,2 +1,5 @@
-print("helo ndsndsnsd")
+print("hello from coders!")
+print("hello from numan!")
+print("hello from fakhar!")
+print("hello from moazzam!")print("helo ndsndsnsd")
 print("i m Madara")
